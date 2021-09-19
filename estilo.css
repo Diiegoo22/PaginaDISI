@@ -1,0 +1,13 @@
+h1 {color: darkslategrey; 
+	text-align: left;}
+
+h2 {color: darkgreen; 
+	text-align: left;
+	width: 500px;
+	height: 10px;}
+
+p {color: black;
+   font-family: sans-serif;}
+
+li {font-family: monospace;
+	font-size: 15px;}
